@@ -1,0 +1,28 @@
+//Main
+TOKEN="UR_TOKEN_HERE"
+//Input your discord token here
+//https://youtu.be/YEgFvgg7ZPI
+//When you change your password the token will be changing
+PREFIX=z!
+//You can change the prefix
+//z! is default
+
+//Others
+EDIT=OFF
+DELETED-MESSAGE-LOGGER=ON
+EDITED-MESSAGE-LOGGER=ON
+NITRO-SNIPE=ON
+PRIVNOTE-SNIPE=ON
+GIVEAWAY-SNIPE=ON
+PASTEBIN-SNIPE=ON
+DELETE-AFTER=OFF
+DELETE-AFTER-TIME=20
+CYCLEDELAY=15
+STATUSCYCLE=Zealous Selfbot On Top
+STREAMURL=
+NICKNAMECYCLEDELAY=3
+NICKNAMECYCLE=!,z,zealous,on,top,Add more items with a comma
+TALKCUTE=OFF
+AFK=OFF
+AFKMSG=I'm afk right now
+NOTIFICATIONS-ON-PING=ON
